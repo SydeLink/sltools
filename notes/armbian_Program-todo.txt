@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# REMOVE PROGRAMS FROM SOURCE CODE
+-Libra Suite
+-Atril Document Viewer
+-Kazam
+-mpv Media Player
+-HexChat
+-Thunderbird
+-Transmission
+-Mirage
+-Galculator
+-Remmina
+?Application Finder
+?Bulk Rename 
+?Screenshot
+?Thunar File Manager
+?Xarchiver
+
+
+# ADD PROGRAMS TO SOURCE CODE
++VS Code
++*Find better terminal*
++
+
+
+
+# PROGRAMS TO PIMP OUT
+-Chromium
+-

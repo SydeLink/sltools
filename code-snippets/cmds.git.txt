@@ -1,0 +1,11 @@
+# Download /w new history only
+git clone --depth 1 https://github.com/SydeLink/SydeVFX_Build.git
+
+# Download /w selected branch
+git clone https://github.com/SydeLink/sydevfx_armbian.git --branch v20.11
+
+# Add upstream 
+git remote add upstream https://github.com/armbian/build.git
+
+# Fetch upstream
+git fetch upstream
